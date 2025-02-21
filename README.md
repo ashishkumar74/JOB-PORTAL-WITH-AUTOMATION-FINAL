@@ -15,3 +15,6 @@ Frontend: React.js, Redux, Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB, Mongoose
 Authentication: JWT (JSON Web Token), bcrypt
+
+
+PROJECT LINK:- https://jobspark.netlify.app/
